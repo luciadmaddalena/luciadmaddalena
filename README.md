@@ -1,0 +1,4 @@
+- 👋 Hi! I’m @luciadmaddalena 
+- 🌱 I’m currently learning Full Stack Developer
+- 😄 I have a degree in nursing
+- - 📫 You can find me at dellam.lucia@gmail.com
