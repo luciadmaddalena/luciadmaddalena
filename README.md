@@ -1,6 +1,6 @@
 # ✨ ¡Hola! Soy Lucía Della Maddalena  
 
-![Pink gif](https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif)  
+![Banner en rosa](https://i.giphy.com/media/7AtHoQ6fvIewE/giphy.gif)   
 
 🎓 Licenciada en Enfermería | 💻 Desarrolladora Front-End en formación  
 🌱 Apasionada por la tecnología, la resolución de problemas y el aprendizaje continuo  
@@ -16,16 +16,13 @@
 ---
 
 ## 🛠 Tecnologías y herramientas
-- HTML, CSS, JavaScript (ES6+)
-- React
-- Git & GitHub
-- Figma
-- Testing QA (Jira + Zephyr)
+| Front-End | Diseño/UI | Testing & Gestión |
+|-----------|-----------|------------------|
+| HTML5 | Figma | Jira + Zephyr |
+| CSS3 (Flexbox, Grid) | Canva | Test cases |
+| JavaScript (ES6+) | | QA manual |
+| React | | Git & GitHub |
 
----
-
-## 📊 Mis Stats en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
 
