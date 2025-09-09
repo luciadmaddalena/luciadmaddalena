@@ -1,6 +1,6 @@
 # ✨ ¡Hola! Soy Lucía Della Maddalena  
 
-![Banner en rosa](https://i.giphy.com/media/7AtHoQ6fvIewE/giphy.gif)   
+![Banner en rosa](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ6MnR5dG94YmQ4Y2F4cXhqNzZybGhzamoxMGV1Mmh1MGt4dGQzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif)   
 
 🎓 Licenciada en Enfermería | 💻 Desarrolladora Front-End en formación  
 🌱 Apasionada por la tecnología, la resolución de problemas y el aprendizaje continuo  
@@ -24,14 +24,9 @@
 | React | | Git & GitHub |
 
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
 
 ---
 
-## 🐍 Animación divertida
-![Snake animation](https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Conectemos
 - 💼 [LinkedIn](https://www.linkedin.com/in/luciadmaddalena/)  
