@@ -1,6 +1,6 @@
 # ✨ ¡Hola! Soy Lucía Della Maddalena  
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRzenprazFuZHdmeGttc3V1NmtxZTBwZGw1eWJ3ZGlxZDBxbWE2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kOuQVWVxE4CarpHOS4/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRzenprazFuZHdmeGttc3V1NmtxZTBwZGw1eWJ3ZGlxZDBxbWE2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kOuQVWVxE4CarpHOS4/giphy.gif" width="550" alt="Coding aesthetic">
 </p>
 
 <h3 align="center">
